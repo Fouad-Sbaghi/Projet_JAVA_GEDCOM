@@ -1,0 +1,12 @@
+genealogy
+genealogy.console
+genealogy.exceptions
+genealogy.exceptions.exceptconsole
+genealogy.exceptions.exceptfile
+genealogy.exceptions.exceptgraph
+genealogy.graph
+genealogy.interfaces
+genealogy.parsing
+genealogy.tags
+genealogy.tags.composite
+genealogy.tags.simple
